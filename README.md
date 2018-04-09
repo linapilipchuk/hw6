@@ -5,7 +5,7 @@
 2.
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/fhfhhfhf.jpeg)
 
-3. problem в 20 веке использвуется чаще как в USA, так и в GB, чем trouble
+3. problem в 20 веке как в USA, так и в GB, использвуется чаще, чем trouble
 
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/problem%20trouble%202.jpeg)
 4. 
