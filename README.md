@@ -8,7 +8,8 @@
 3. problem в 20 веке использвуется чаще как в USA, так и в GB, чем trouble
 
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/problem%20trouble%202.jpeg)
-4. ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/question.png)
+4. 
+![ссылка](https://github.com/linapilipchuk/hw6/blob/master/question.png)
 
 5. love употребляется с god, like употребляется с information, оба употребляютс с child
 
