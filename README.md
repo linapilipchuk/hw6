@@ -3,3 +3,5 @@
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/fhfhhfhf.jpeg)
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/problem%20trouble.jpeg)
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/question.png)
+love употребляется с god, like употребляется с information, оба употребляютс с child
+![ссылка](https://github.com/linapilipchuk/hw6/blob/master/love%20like.jpeg)
