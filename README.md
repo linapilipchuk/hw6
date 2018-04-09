@@ -8,3 +8,6 @@ problem в 20 веке использвуется чаще как в USA, так
 
 love употребляется с god, like употребляется с information, оба употребляютс с child
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/love%20like.jpeg)
+
+
+![ссылка](https://github.com/linapilipchuk/hw6/blob/master/lion.jpeg)
