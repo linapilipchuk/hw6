@@ -5,7 +5,7 @@
 2.
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/fhfhhfhf.jpeg)
 
-3. problem в 20 веке как в USA, так и в GB, использвуется чаще, чем trouble, однако в 19 веке частотность trouble выше, чем problem. 
+3. problem в 20 веке, как в USA, так и в GB, использвуется чаще, чем trouble, однако в 19 веке частотность trouble выше, чем частотность problem. 
 
 ![ссылка](https://github.com/linapilipchuk/hw6/blob/master/problem%20trouble%202.jpeg)
 4. 
